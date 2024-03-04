@@ -13,7 +13,7 @@
 - 📜 Major Certifications done on:
 **"Ocean Certified Java Level 1 Developer | Ocean Certified Java Level 2 Developer | Agile Software Development | Automation Engineer Practitioner Certification | Microsoft Azure AZ-900 | AWS Certified Cloud Practitioner (CLF-C01) | HTML and CSS for Beginners | JavaScript and ES6 | Getting Started with Git | Global - Python Assessment"**
 
-- 📫 How to reach me **Gmail: [santoshkr0642@gmail.com](santoshkr0642@gmail.com) or LinkedIn**
+- 📫 How to reach me **Gmail: [santoshkr0642@gmail.com](mailto:santoshkr0642@gmail.com) or LinkedIn**
 
 
 <h3 align="left">Connect with me:</h3>
