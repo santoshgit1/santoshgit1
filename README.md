@@ -13,14 +13,15 @@
 - 📜 Major Certifications done on:
 **"Ocean Certified Java Level 1 Developer | Ocean Certified Java Level 2 Developer | Agile Software Development | Automation Engineer Practitioner Certification | Microsoft Azure AZ-900 | AWS Certified Cloud Practitioner (CLF-C01) | HTML and CSS for Beginners | JavaScript and ES6 | Getting Started with Git | Global - Python Assessment"**
 
-- 📫 How to reach me **Gmail: [santoshkr0642@gmail.com](mailto:santoshkr0642@gmail.com) (or) LinkedIn: [santoshkr6](https://www.linkedin.com/in/santoshkr6/)**
+- 📫 How to reach me through **Gmail: [santoshkr0642@gmail.com](mailto:santoshkr0642@gmail.com) (or) LinkedIn: [santoshkr6](https://www.linkedin.com/in/santoshkr6/)**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Media:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adityajaiswal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a>
-<a href="https://instagram.com/devopsshack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/santoshkr6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a>
+<a href="inkedin.com/in/santoshkr6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
+<a href="https://github.com/santoshgit1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
+
   
 </p>
 
