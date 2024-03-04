@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm Santosh Kumar P</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png"> </div>
-<h2 align="center" style="color: green;">A passionate Java Developer From India. I work as a software engineer in Corporate IT Sector, and also upskill myself by working on real-time</h2>
+<h2 align="center">A passionate Java Developer From India. I work as a software engineer in Corporate IT Sector, and also upskill myself by working on real-time</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
@@ -11,7 +11,7 @@
 - 👨‍💻 My LinkedIn Profile [Click Here.. ](https://www.linkedin.com/in/santoshkr6/)
 
 - 📜 Major Certifications done on:
-**1. Java - Entry Level Developer Level 1 (Beginner)**
+**1. Java - Entry Level Developer Level 1 (Beginner)**/t
 **2. Java - Entry Level Developer Level 2 (Practitioner)**
 **3. Java Full Stack - Entry Level Developer Level 1 (Beginner)**
 **4. Agile Software Development**
