@@ -66,7 +66,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
     </a> |
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/adobe_photoshop/adobe_photoshop-icon.svg" alt="Photoshop" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Adobe_Photoshop_Logosvg.svg" alt="Photoshop" width="40" height="40"/>
     </a> |
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
