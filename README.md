@@ -4,14 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
-- 🔭 I’m currently working as **Sr. Software Engineer @ Capgemini with alomst 3 yrs. of experience.**
+- 🔭 I’m currently working as **"Sr. Software Engineer @ Capgemini with alomst 3 yrs. of experience."**
 
-- 🌱 I’m skilled with **Master in Java, Spring Boot, Microservices, SQL, Hibernate, Frontend Skills**
+- 🌱 I’m skilled with **"Master in Java, Spring Boot, Microservices, SQL, Hibernate, Frontend Skills"**
 
 - 👨‍💻 My LinkedIn Profile [Click Here.. ](https://www.linkedin.com/in/santoshkr6/)
 
 - 📜 Major Certifications done on:
-**Ocean Certified Java Level 1 Developer | Ocean Certified Java Level 2 Developer | Agile Software Development | Automation Engineer Practitioner Certification | Microsoft Azure AZ-900 | AWS Certified Cloud Practitioner (CLF-C01) | HTML and CSS for Beginners | JavaScript and ES6 | Getting Started with Git | Global - Python Assessment**
+**"Ocean Certified Java Level 1 Developer | Ocean Certified Java Level 2 Developer | Agile Software Development | Automation Engineer Practitioner Certification | Microsoft Azure AZ-900 | AWS Certified Cloud Practitioner (CLF-C01) | HTML and CSS for Beginners | JavaScript and ES6 | Getting Started with Git | Global - Python Assessment"**
 
 - 📫 How to reach me **santoshkr0642@gmail.com**
 
