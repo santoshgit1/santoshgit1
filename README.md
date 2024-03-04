@@ -11,9 +11,7 @@
 - 👨‍💻 My LinkedIn Profile [Click Here.. ](https://www.linkedin.com/in/santoshkr6/)
 
 - 📜 Major Certifications done on:
-**<p>Ocean Certified Java Level 1 Developer</p>**
-**<p>2. Ocean Certified Java Level 2 Developer</p>**
-**<p>4. Agile Software Development</p>**
+**<p>Ocean Certified Java Level 1 Developer</p>** **<p>2. Ocean Certified Java Level 2 Developer</p>** **<p>4. Agile Software Development</p>**
 **<p>5. Automation Engineer Practitioner Certification</p>**
 **<p>6. Microsoft Azure AZ-900</p>**
 **<p>7. AWS Certified Cloud Practitioner (CLF-C01)</p>**
