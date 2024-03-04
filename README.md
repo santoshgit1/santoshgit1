@@ -11,18 +11,18 @@
 
 - 👨‍💻 My LinkedIn Profile [Click Here.. ](https://www.linkedin.com/in/santoshkr6/)
 
-- 📜 Major Certifications done on **
-1. Java - Entry Level Developer Level 1 (Beginner)
-2. Java - Entry Level Developer Level 2 (Practitioner)
-3. Java Full Stack - Entry Level Developer Level 1 (Beginner)
-4. Agile Software Development 
-5. Automation Engineer Practitioner Certification
-6. Microsoft Azure AZ-900
-7. AWS Certified Cloud Practitioner (CLF-C01)
-8. HTML and CSS for Beginners
-9. JavaScript and ES6
-10. Getting Started with Git 
-11. Global - Python Assessment **
+- 📜 Major Certifications done on:
+**1. Java - Entry Level Developer Level 1 (Beginner)**
+**2. Java - Entry Level Developer Level 2 (Practitioner)**
+**3. Java Full Stack - Entry Level Developer Level 1 (Beginner)**
+**4. Agile Software Development**
+**5. Automation Engineer Practitioner Certification**
+**6. Microsoft Azure AZ-900**
+**7. AWS Certified Cloud Practitioner (CLF-C01)**
+**8. HTML and CSS for Beginners**
+**9. JavaScript and ES6**
+**10. Getting Started with Git**
+**11. Global - Python Assessment**
 
 - 📫 How to reach me **santoshkr0642@gmail.com**
 
