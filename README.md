@@ -78,7 +78,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santoshgit1&show_icons=true&locale=en&layout=compact" alt="santoshgit1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiswaladi246&show_icons=true&locale=en" alt="santoshgit1" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswaladi246&" alt="santoshgit1" /></p>
 
