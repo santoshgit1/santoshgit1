@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as **"Sr. Software Engineer @ Capgemini with alomst 3 yrs. of experience."**
 
-- 🌱 I’m skilled with **"Master in Java, Spring Boot, Microservices, SQL, Hibernate, Frontend Skills"**
+- 🌱 I’m skilled with **"Master in Python, Django, Microservices, MYSQL, AZURE, Frontend Skills"**
 
 - 👨‍💻 My LinkedIn Profile [Click Here.. ](https://www.linkedin.com/in/santoshkr6/)
 
